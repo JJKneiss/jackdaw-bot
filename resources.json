@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Project Mouseion",
+        "description": "A basic library of tutorials, tools, and other dev related resources.",
+        "link": "https://github.com/JJKneiss/project-mousion",
+        "category": "tools"
+    },
+    {
+        "name": "Random User Generator",
+        "description": "A free, open-source API for generating random user data. Like Lorem Ipsum, but for people.",
+        "link": "https://randomuser.me/",
+        "category": "tools"
+    },
+    {
+        "name": "Google Fonts",
+        "description": "Free to use fonts",
+        "link": "https://fonts.google.com/",
+        "category": "tools"
+    },
+    {
+        "name": "Font Awesome",
+        "description": "A popular icon library",
+        "link": "https://fontawesome.com/icons",
+        "category": "tools"
+    },
+    {
+        "name": "CSS Tricks",
+        "description": "Tutorials and tricks for CSS.",
+        "link": "https://css-tricks.com/",
+        "category": "tools"
+    },
+    {
+        "name": "CSS Grid Generator",
+        "description": "A basic grid generator.",
+        "link": "https://cssgrid-generator.netlify.app/",
+        "category": "tools"
+    },
+    {
+        "name": "W3Schools",
+        "description": "A good learning resource across multiple web languages and tools.",
+        "link": "https://www.w3schools.com/",
+        "category": "tutorials"
+    },
+    {
+        "name": "Coolors",
+        "description": "A color palette generator with comprehensive color codes.",
+        "link": "https://coolors.co/",
+        "category": "tools"
+    },
+    {
+        "name": "The Modern JavaScript Tutorial",
+        "description": "How it's done now. From the basics to advanced topics with simple, but detailed explanations.",
+        "link": "https://javascript.info/",
+        "category": "tutorials"
+    },
+    {
+        "name": "Syntax FM",
+        "description": "",
+        "link": "https://syntax.fm/",
+        "category": "tools"
+    },
+    {
+        "name": "Wes Bos Courses",
+        "description": "",
+        "link": "https://wesbos.com/courses",
+        "category": "tutorials"
+    },
+    {
+        "name": "Level Up Tutorials",
+        "description": "",
+        "link": "https://leveluptutorials.com/",
+        "category": "tutorials"
+    },
+    {
+        "name": "Frontend Masters",
+        "description": "",
+        "link": "https://frontendmasters.com/teachers/will-sentance/",
+        "category": "tutorials"
+    },
+    {
+        "name": "Oreilly.com",
+        "description": "",
+        "link": "https://www.oreilly.com/",
+        "category": "tools"
+    },
+    {
+        "name": "Code Guide",
+        "description": "",
+        "link": "https://codeguide.co/",
+        "category": "tools"
+    },
+    {
+        "name": "MDN",
+        "description": "",
+        "link": "https://developer.mozilla.org/en-US/",
+        "category": "tools"
+    },
+    {
+        "name": "HackerRank",
+        "description": "HackerRank is the market-leading technical assessment and remote interview solution for hiring developers. Learn how to hire technical talent from anywhere!",
+        "link": "https://www.hackerrank.com/",
+        "category": "tools"
+    }
+]
