@@ -1,8 +1,8 @@
 require('dotenv').config();
-const resources = require('./resources.json');
+
 const Discord = require('discord.js');
-const ms = require('ms');
 const { Client, Intents } = Discord;
+
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES, Intents.FLAGS.GUILD_MESSAGE_REACTIONS] });
 
 client.on('ready', () => {
@@ -14,9 +14,6 @@ client.on('messageCreate', msg => {
     if (msg.content === "ping") {
         msg.reply('pong!');
     }
-    else if (msg.content === "!resources") {
-    }
-
 });
 
 client.login(process.env.BOT_TOKEN);
